@@ -1,1 +1,1 @@
-This code realizes a game based on Java-GUI, where circles and rectangles are created using right-clicks and left-clicks in a limited time.
+This code realizes a game based on Java-GUI, where circles and rectangles are created using right-clicks and left-clicks in a limited time. The winner is the one who can create the most figures in the least time with the least number of misclicks (when you click on an already created figure).
